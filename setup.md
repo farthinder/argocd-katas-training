@@ -1,5 +1,7 @@
 # Setup
 
+UPDATE
+
 💡 **About ArgoCD**
 
 ArgoCD is a declarative, GitOps continuous delivery tool for Kubernetes. It facilitates the management and deployment of applications within Kubernetes using Git repositories as the source of truth for defining the desired application state.
