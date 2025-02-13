@@ -3,5 +3,5 @@ service:
 persistence:
   enabled: false
 jenkinsPassword: student
-global:
-  nameOverride: bengt
+
+nameOverride: bengt
